@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "address": "12 valley of Kings, Geneva in Switzerland",
+    "country": "Switzerland",
+    "description": "A super detached Victorian property on one of the lands in Switzerland",
+    "price": 900000,
+    "photo": "../assets/house1.jpg"
+  },
+  {
+    "id": 2,
+    "address": "12 valley of Kings, Geneva in India",
+    "country": "India",
+    "description": "A super detached Victorian property on one of the lands in India",
+    "price": 50000000,
+    "photo": "../assets/house2.jpg"
+  },
+  {
+    "id": 3,
+    "address": "12 valley of Kings, Geneva in Australia",
+    "country": "Australia",
+    "description": "A super detached Victorian property on one of the lands in Australia",
+    "price": 9800000,
+    "photo": "../assets/house3.jpg"
+  },
+  {
+    "id": 4,
+    "address": "12 valley of Kings, Geneva in USA",
+    "country": "USA",
+    "description": "A super detached Victorian property on one of the lands in USA",
+    "price": 9089000,
+    "photo": "../assets/house4.jpg"
+  },
+  {
+    "id": 5,
+    "address": "12 valley of Kings, Geneva in UK",
+    "country": "UK",
+    "description": "A super detached Victorian property on one of the lands",
+    "price": 9000000,
+    "photo": "../assets/house5.jpg"
+  },
+  {
+    "id": 6,
+    "address": "12 valley of Kings, Geneva in UK",
+    "country": "UK",
+    "description": "A super detached Victorian property on one of the lands",
+    "price": 87889990,
+    "photo": "../assets/house5.jpg"
+  },
+  {
+    "id": 7,
+    "address": "12 valley of Kings, Geneva in India",
+    "country": "India",
+    "description": "A super detached Victorian property on one of the lands",
+    "price": 7000000,
+    "photo": "../assets/house5.jpg"
+  },
+  {
+    "id": 8,
+    "address": "12 valley of Kings, Geneva in India",
+    "country": "India",
+    "description": "A super detached Victorian property on one of the lands",
+    "price": 100008000,
+    "photo": "../assets/house5.jpg"
+  },
+  {
+    "id": 9,
+    "address": "12 valley of Kings, Geneva in USA",
+    "country": "USA",
+    "description": "A super detached Victorian property on one of the lands",
+    "price": 50000000,
+    "photo": "../assets/house5.jpg"
+  },
+  {
+    "id": 10,
+    "address": "12 valley of Kings, Geneva in USA",
+    "country": "USA",
+    "description": "A super detached Victorian property on one of the lands",
+    "price": 9000000,
+    "photo": "../assets/house5.jpg"
+  },
+  {
+    "id": 10,
+    "address": "12 valley of Kings, Geneva in USA",
+    "country": "USA",
+    "description": "A super detached Victorian property on one of the lands",
+    "price": 9000000,
+    "photo": "../assets/house5.jpg"
+  }
+]
